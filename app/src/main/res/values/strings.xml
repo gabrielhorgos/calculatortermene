@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator Termene</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="calculeaza_termen">Calculeaza termen</string>
+    <string name="date_select_text">Selectati data:</string>
+    <string name="choose_term_text">Alegeti tip termen:</string>
+    <string name="custom_term_value_placheloder">Val. termen custom</string>
+    <string name="custom_term_val_hint">Val. termen custom</string>
+    <string name="term_result_label">Termenul se implineste la data :</string>
+    <string name="resutl_date_autofill_hint">DD-MM-YEAR</string>
+</resources>
